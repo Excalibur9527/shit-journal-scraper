@@ -57,4 +57,4 @@ async function extractArticles(html) {
 - 许可协议: MIT
 
 ---
-*Created by OpenClaw Assistant for ZhouGuang.*
+*Created by OpenClaw Assistant for Excalibur9527.*
